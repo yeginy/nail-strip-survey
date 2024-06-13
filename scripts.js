@@ -1,15 +1,15 @@
 const designs = [
-    { id: 1, url: 'Nail Strip Survey/images/Nail_Design_1.jpg', name: 'Design 1' },
-    { id: 2, url: 'Nail%20Strip%20Survey/images/Nail_Design_2.jpg', name: 'Design 2' },
-    { id: 3, url: 'Nail Strip Survey/images/Nail_Design_3.jpg', name: 'Design 3' },
-    { id: 4, url: 'Nail Strip Survey/images/Nail_Design_4.jpg', name: 'Design 4' },
-    { id: 5, url: 'Nail Strip Survey/images/Nail_Design_5.jpg', name: 'Design 5' },
-    { id: 6, url: 'Nail Strip Survey/images/Nail_Design_6.jpg', name: 'Design 6' },
-    { id: 7, url: 'Nail Strip Survey/images/Nail_Design_7.jpg', name: 'Design 7' },
-    { id: 8, url: 'Nail Strip Survey/images/Nail_Design_8.jpg', name: 'Design 8' },
-    { id: 9, url: 'Nail Strip Survey/images/Nail_Design_9.jpg', name: 'Design 9' },
-    { id: 10, url: 'Nail Strip Survey/images/Nail_Design_10.jpg', name: 'Design 10' },
-    { id: 11, url: 'Nail Strip Survey/images/Nail_Design_11.jpg', name: 'Design 11' },
+    { id: 1, url: 'images/Nail_Design_1.jpg', name: 'Design 1' },
+    { id: 2, url: 'images/Nail_Design_2.jpg', name: 'Design 2' },
+    { id: 3, url: 'images/Nail_Design_3.jpg', name: 'Design 3' },
+    { id: 4, url: 'images/Nail_Design_4.jpg', name: 'Design 4' },
+    { id: 5, url: 'images/Nail_Design_5.jpg', name: 'Design 5' },
+    { id: 6, url: 'images/Nail_Design_6.jpg', name: 'Design 6' },
+    { id: 7, url: 'images/Nail_Design_7.jpg', name: 'Design 7' },
+    { id: 8, url: 'images/Nail_Design_8.jpg', name: 'Design 8' },
+    { id: 9, url: 'images/Nail_Design_9.jpg', name: 'Design 9' },
+    { id: 10, url: 'images/Nail_Design_10.jpg', name: 'Design 10' },
+    { id: 11, url: 'images/Nail_Design_11.jpg', name: 'Design 11' },
 ];
 
 let currentDesign = 0;
