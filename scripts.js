@@ -1,6 +1,6 @@
 const designs = [
-    { id: 1, url: 'Nail%20Strip%20Survey/images/Nail_Design_1.jpg', name: 'Design 1' },
-    { id: 2, url: 'Nail Strip Survey/images/Nail_Design_2.jpg', name: 'Design 2' },
+    { id: 1, url: 'Nail Strip Survey/images/Nail_Design_1.jpg', name: 'Design 1' },
+    { id: 2, url: 'Nail%20Strip%20Survey/images/Nail_Design_2.jpg', name: 'Design 2' },
     { id: 3, url: 'Nail Strip Survey/images/Nail_Design_3.jpg', name: 'Design 3' },
     { id: 4, url: 'Nail Strip Survey/images/Nail_Design_4.jpg', name: 'Design 4' },
     { id: 5, url: 'Nail Strip Survey/images/Nail_Design_5.jpg', name: 'Design 5' },
